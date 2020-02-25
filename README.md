@@ -99,4 +99,6 @@ _TODO: Record and describe your circuit measurements and calculations here._
 
 1. Micro:bit breakout tutorial: http://imgur.com/gallery/a0F9kp0
 
+2. Micro:bit breakout LED 5x5 included: https://imgur.com/gallery/0jTW9kn
+
 _TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
