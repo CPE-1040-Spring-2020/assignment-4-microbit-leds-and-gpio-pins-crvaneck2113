@@ -97,4 +97,6 @@ _TODO: Record and describe your circuit measurements and calculations here._
 
 ## Demo videos
 
+1. Micro:bit breakout tutorial: http://imgur.com/gallery/a0F9kp0
+
 _TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
